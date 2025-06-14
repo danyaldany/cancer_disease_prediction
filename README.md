@@ -7,7 +7,7 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to detect 
 
 ### Overview
 
-Brain tumors are life-threatening conditions that require timely diagnosis. This project leverages CNN-based deep learning techniques to analyze MRI scans and classify them as **tumor** or **no tumor**. The model
+Brain tumors are life-threatening conditions that require timely diagnosis. This project leverages CNN-based deep learning techniques to analyze MRI scans and classify them as **Yes** or **No**. The model
 is trained on a labeled MRI dataset and achieves high accuracy in detecting the presence of tumors.
 
 ### Features
@@ -16,7 +16,7 @@ is trained on a labeled MRI dataset and achieves high accuracy in detecting the 
 * Deep learning classification using a custom CNN model
 * High accuracy on validation/test sets
 * Clean and simple code structure
-* Optionally deployable using Streamlit or Flask
+* Optionally deployable using Streamlit
 
 ---
 
